@@ -1,4 +1,10 @@
-
+/**
+ * Course: Object-Oriented Programming / Java Programming
+ * Assignment: 3nd Assignment -Gutenberg Book Explorer
+ * Student Name: ABDALRHMAN AZHARI MOHAMED
+ * Roll Number: 202511104
+ * Institution: Kigali Independent University (ULK)
+ */
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.util.HashSet;
